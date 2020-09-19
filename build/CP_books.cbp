@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CP_books"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\2. Graph algorithms\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="depth_frist_search">
+				<Option output="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms/depth_frist_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 depth_frist_search"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="depth_frist_search/fast">
+				<Option output="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms/depth_frist_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 depth_frist_search/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="breadth_first_search">
+				<Option output="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms/breadth_first_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 breadth_first_search"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="breadth_first_search/fast">
+				<Option output="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms/breadth_first_search" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenlei/Developer/Projects/Current/CP-books/build/2. Graph algorithms"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 breadth_first_search/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/chenlei/Developer/Projects/Current/CP-books/build/2.\ Graph\ algorithms/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/chenlei/Developer/Projects/Current/CP-books/2. Graph algorithms/breadth_first_search.cpp">
+			<Option target="breadth_first_search"/>
+		</Unit>
+		<Unit filename="/Users/chenlei/Developer/Projects/Current/CP-books/2. Graph algorithms/depth_frist_search.cpp">
+			<Option target="depth_frist_search"/>
+		</Unit>
+		<Unit filename="/Users/chenlei/Developer/Projects/Current/CP-books/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/chenlei/Developer/Projects/Current/CP-books/2. Graph algorithms/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\2. Graph algorithms\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
