@@ -2,9 +2,9 @@
 #include <vector>
 #include <queue>
 
-constexpr int N = 7;
+constexpr int N = 6;
 std::queue<int> q;
-std::vector<int> adj[N];
+std::vector<int> adj[N+1];
 bool visited[N];
 int distance[N];
 

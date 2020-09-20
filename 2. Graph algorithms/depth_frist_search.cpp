@@ -2,9 +2,9 @@
 #include <vector>
 
 // construct the graph
-constexpr int N = 6;
-std::vector<int> adj[N];
-bool visited[N];
+constexpr int N = 5;
+std::vector<int> adj[N + 1];
+bool visited[N + 1];
 
 void dfs(int s){
   if(visited[s]) return;
